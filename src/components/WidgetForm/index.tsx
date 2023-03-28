@@ -64,7 +64,7 @@ export function WidgetForm(){
                     target="_blank"
                     className="underline underline-offset-2"
                 >
-                    Erys Stark
+                    Erick E.C. Pereira
                 </a>
             </footer>
         </div>
